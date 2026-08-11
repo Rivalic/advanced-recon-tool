@@ -113,7 +113,7 @@ advanced-recon-tool/
 # ⚙️ Installation
 
 ```bash
-git clone https://github.com/Mr-Robot-01-Yes-or-No/advanced-recon-tool.git
+git clone https://github.com/rivalic/advanced-recon-tool.git
 
 cd advanced-recon-tool
 
