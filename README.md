@@ -176,10 +176,3 @@ Unauthorized usage against systems you do not own or have explicit permission to
 
 <div align="center">
 
-## 👨‍💻 Ujas Gohil
-
-Cybersecurity • Networking • Python Automation • Ethical Hacking
-
-⭐ Star the repository if you found it useful.
-
-</div>
