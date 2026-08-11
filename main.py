@@ -72,7 +72,7 @@ def print_banner():
         Align.center(
             "[bold white]Advanced Website Recon & Tech Fingerprinting Tool[/bold white]\n"
             "[dim]v1.0.0  |  Educational & Authorized Testing Only[/dim]\n"
-            "[dim]Author: Mr-Robot-01-Yes-or-No[/dim]"
+            "[dim]Author: Rivalic[/dim]"
         )
     )
     console.print()
