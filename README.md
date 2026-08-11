@@ -50,31 +50,6 @@ The tool automates infrastructure intelligence gathering while presenting result
 
 ---
 
-# 🖥 Screenshots
-
-## 🚀 Recon Workflow
-
-<p align="center">
-<img src="screenshots/recon.png" width="100%">
-</p>
-
----
-
-## 🔒 Security Header Analysis
-
-<p align="center">
-<img src="screenshots/security.png" width="100%">
-</p>
-
----
-
-## 🔌 Port Scan Results
-
-<p align="center">
-<img src="screenshots/ports.png" width="100%">
-</p>
-
----
 
 # 🧠 Recon Workflow
 
